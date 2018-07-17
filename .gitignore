@@ -1,0 +1,15 @@
+
+#let's start with directories
+bin/
+obj/
+Debug/
+Release/
+
+#let's continue with file cathegories
+*.layout
+*.depend
+*.o
+*.a
+*.exe
+*.dll
+*.cbp
