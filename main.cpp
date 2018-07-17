@@ -21,11 +21,10 @@ int main()
     {
         cursor->showNode();
     }
-
-    cout << endl<< endl<< "Strike ""Enter"" to leave." << endl;
-//    string mystring;
-//    cin >> mystring;
+    //
+    cout << endl<< endl<< "Strike a char and then ""Enter"" to leave." << endl;
     int i;
     cin >> i;
+    // ready
     return 0;
 }
